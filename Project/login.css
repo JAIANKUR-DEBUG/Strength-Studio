@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.img1{
+    background: url(login7.jpg) no-repeat center center/cover;
+    
+    height:100vh;
+    
+    
+
+ 
+}
+.login{
+   
+   width: 350px;
+   
+   height: 350px;
+  
+   float: right;
+   margin: 100px 200px 0px 0px;
+  
+   font-size: 1.2rem;
+   color: white;
+   
+   
+   
+}
+.sign{
+    
+    margin-top: 25px;
+    width: 100px;
+    height: 35px;
+    font-size: 15px;
+      
+    background-color:rgb(231, 121, 19);
+    border-radius: 5px;
+
+}
+#name{
+    width: 340px;
+    height: 24px;
+    margin-top: 20px;
+}
+#email{
+    width: 340px;
+    height: 24px;
+    margin-top: 20px;
+}
+#click{
+    font-size: 15px;padding-left: 30px;margin-top: 20px;
+}
+#term{
+    font-size: 15px;padding-left: 50px;margin-top: 10px;
+}

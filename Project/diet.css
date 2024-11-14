@@ -1,0 +1,62 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    list-style: none;
+}
+.main{
+    background: url(bgc3.jpg);
+    height: 100vh;
+}
+.nav{
+    
+    background-color: black;
+    width: 98.79vw;
+    
+    
+}
+.unlst{
+    display: flex;
+    justify-content: space-between;
+}
+.navimg{
+    position: relative;
+}
+#img{
+    height: 120px;
+    position: absolute;    
+}
+.navcontent{
+    
+    padding-top: 65px;
+    
+    width: 35rem;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.navcontent a{
+    text-decoration: none;
+    color: white;
+    font-size: 1.3rem;
+    font-weight: bold;
+
+}
+.navcontent a:hover{
+    color: red;
+}
+
+#img1  {
+    height: 30rem;
+    margin-left: 100px;
+    margin-top:20px ;
+    border: 2px solid gray;
+    border-radius: 10px;
+}
+#img2{
+    height: 30rem;
+    margin-left:20px ;
+    margin-top: 20px;
+    border: 2px solid gray;
+    border-radius: 10px;
+}
